@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi! I'm Matheus Santos 👋
 
+Back-End | Java | Spring | Docker | JavaScript | NodeJS | AWS | MySQL | Postgres | MongoDB
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [matheusslr@hotmail.com](mailto:matheusslr@hotmail.com)
+* 🚀  I'm currently working on [Seplan-RN](http://www.seplan.rn.gov.br/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusslr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@matheus.santos.016) 
@@ -9,5 +14,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=matheusslr&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusslr&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
