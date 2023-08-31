@@ -25,5 +25,5 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=matheusslr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/matheusslr/github-readme-stats#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusslr&layout=compact&theme=dark#gh-dark-mode-only)
+![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=matheusslr&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusslr&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9)
