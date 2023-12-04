@@ -1,4 +1,4 @@
-## Hi! I'm Matheus Santos 👋
+## Hi! I'm Matheus Santos
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [matheusslr@hotmail.com](mailto:matheusslr@hotmail.com)
