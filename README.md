@@ -2,7 +2,6 @@
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [matheusslr@hotmail.com](mailto:matheusslr@hotmail.com)
-* 🚀  I'm currently working on [Seplan-RN](http://www.seplan.rn.gov.br/)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusslr/) 
